@@ -1,0 +1,5 @@
+create a today file and write all logs
+when the date changes push this file to the firebase storage
+delete the file and create a new one
+
+the file log should be a excel file
